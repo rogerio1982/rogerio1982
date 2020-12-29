@@ -8,4 +8,6 @@ My name´s Rogério Soares. I'm Data Science.
 - ⚡ Technologies Back: Python+Flask, Node+Express
 - ⚡ Technologies Mobile: Kotlin
 
-Personal site: www.rogeriosoares.tech
+Projects: 
+
+https://myappcav20202020.herokuapp.com/
