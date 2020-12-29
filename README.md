@@ -1,6 +1,6 @@
 Welcome my profile
 
-My name´s Rogério Soares. I'm A Full Stack developer.
+My name´s Rogério Soares. I'm Data Science.
 
 - ⚡ I’m working Machine Learning apllied in the: ioT, Robots, Healths, others
 - ⚡ Technologies ML,DL and Ai: Scikitlearn, Tensoflow, Pycaret, others
