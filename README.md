@@ -3,7 +3,8 @@ Welcome my profile
 My name´s Rogério Soares. I'm A Full Stack developer.
 
 - ⚡ I’m working Machine Learning apllied in the: ioT, Robots, Healths, others
-- ⚡ Technologies Rront: React
+- ⚡ Technologies ML,DL and Ai: Scikitlearn, Tensoflow, Pycaret, others
+- ⚡ Technologies Front: React
 - ⚡ Technologies Back: Python+Flask, Node+Express
 - ⚡ Technologies Mobile: Kotlin
 
