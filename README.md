@@ -1,13 +1,12 @@
 Welcome my profile
 
-My name´s Rogério Soares. I'm Data Science.
+My name´s Rogério Soares. I'm Teacher,Developer and DataScience. Working Machine Learning apllied in the: Healths, ioT, Robots and others.
 
-- ⚡ I’m working Machine Learning apllied in the: ioT, Robots, Healths, others
-- ⚡ Technologies ML,DL and Ai: Scikitlearn, Tensoflow, Pycaret, others
-- ⚡ Technologies Front: React
-- ⚡ Technologies Back: Python+Flask, Node+Express
-- ⚡ Technologies Mobile: Kotlin
+- 📕 Technologies ML,DL and AI: Scikitlearn, Tensoflow, Pycaret, Statistic and others
+- 💻 Technologies Front: React
+- 📈 Technologies Back: Python+Flask, Node+Express.
+- ⚡ Technologies Mobile: Kotlin.
 
 Projects: 
 
-https://myappcav20202020.herokuapp.com/
+<site> https://myappcav20202020.herokuapp.com/
