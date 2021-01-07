@@ -10,3 +10,6 @@ My name´s Rogério Soares. I'm Teacher,Developer and DataScience. Working Machi
 Projects: 
 
 Example: https://myappcav20202020.herokuapp.com/
+
+Contacts:
+site: https://rogerio1982.github.io/
