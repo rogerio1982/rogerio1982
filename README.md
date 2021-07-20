@@ -6,6 +6,7 @@ My name´s Rogério Soares. I'm Teacher,Developer and DataScience. Working Machi
 - 💻 Technologies Front: React
 - 📕 Technologies Back: Python with Django and Flask. Databases sqlite, mysql, Mongo.
 - ⚡ Technologies Mobile: React Native.
+- ⚡ Agile: kanban.
 
 Projects: 
 
