@@ -4,8 +4,8 @@ My name´s Rogério Soares. I'm Teacher,Developer and DataScience. Working Machi
 
 - 📈 Technologies ML,DL and AI: Scikitlearn, Tensoflow, Pycaret, Statistic and others
 - 💻 Technologies Front: React
-- 📕 Technologies Back: Python+Flask, Node+Express.
-- ⚡ Technologies Mobile: Kotlin.
+- 📕 Technologies Back: Python with Django and Flask. Databases sqlite, mysql, Mongo.
+- ⚡ Technologies Mobile: React Native.
 
 Projects: 
 
