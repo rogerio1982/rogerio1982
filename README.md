@@ -15,3 +15,6 @@ Others;
 
 Contacts:
 site: https://rogerio1982.github.io/
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhatia46&layout=compact&hide=html" />
+
