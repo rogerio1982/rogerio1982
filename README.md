@@ -8,11 +8,11 @@ My name´s Rogério Soares. I'm Teacher,Developer and DataScience. Working Machi
 
 Projects: 
 
-QoT in optics fibers
-UAV to rescue 
-Detect Mask with AI; 
-Dengue forecast with ANN;
-Others;
+- QoT in optics fibers
+- UAV to rescue 
+- Detect Mask with AI; 
+- Dengue forecast with ANN;
+- Others;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio1982&layout=compact&hide=html" />
 
