@@ -8,8 +8,8 @@ My name´s Rogério Soares. I'm Teacher,Developer and DataScience. Working Machi
 
 Projects: 
 
-- QoT in optics fibers
-- UAV to rescue 
+- QoT in optics fibers using ML models
+- UAV to rescue using PSO
 - Detect Mask with AI; 
 - Dengue forecast with ANN;
 - Others;
