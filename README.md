@@ -2,8 +2,8 @@ Welcome my profile
 
 My name´s Rogério Soares. I'm Teacher,Developer and DataScience. Working Machine Learning apllied in the: Healths, ioT, Robots and others.
 
-- 📈 Technologies ML,DL and AI: Scikitlearn, Tensoflow, Pycaret, Statistic and others
-- 📕 Back: Python with Django and Flask. Databases sqlite, mysql, Mongo.
+- 📈 Technologies ML,DL and AI: Scikitlearn, Python, Tensoflow, Pycaret, Statistic and others
+- 📕 Full-Stack: Back-end (PHP, python) Front-end(HTML, CSS, JS e React). Databases sqlite, mysql, Mongo.
 
 
 Projects: 
